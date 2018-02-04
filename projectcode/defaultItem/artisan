@@ -1,0 +1,8 @@
+#!/usr/bin/env php
+<?php
+
+echo NFANGBIAN_ENTRY_TYPE . PHP_EOL;
+
+var_export($_ENV);
+echo PHP_EOL . "artisan end" . PHP_EOL;
+
